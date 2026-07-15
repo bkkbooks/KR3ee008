@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ee008/v1
 canonical_location: https://kanripo.org/bkk/KR3ee008/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 扁鵲神應針灸玉龍經
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ee008_000.yaml, hash: 'sha256:ec65e38fbe803ee23e4f4c0dafd96a9a572ea8339c46974621f84c8dbee86b26'}
+  - {seq: 0, filename: KR3ee008_000.yaml, hash: 'sha256:0498bdf28acf71847aea0062af20e38b35cf59676a7631207434f1d3885b6709'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ee008_000.markers.yaml, hash: 'sha256:c2fe1d91c794282ceb77bbba8750b5273870121848c6ae5e991d63eb4814acec'}
+  - {seq: 0, role: markers, filename: assets/KR3ee008_000.markers.yaml, hash: 'sha256:a6f6a3ee12f63445c90f318dbba1a7d67603845f8596a881aaec9f1b122a78d0'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1341,4 +1341,7 @@ table_of_contents:
   label: 定八穴所在
   type: section
   level: 2
-hash: sha256:596a03859317471d14dd5bbb7747c53f033814d5ffccaea0ecee20b247e6cbbd
+hash: sha256:00977541919d95b34b935cfe9756b15fadd3a8d7d2bb970a02a84df9b6a67b36
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
