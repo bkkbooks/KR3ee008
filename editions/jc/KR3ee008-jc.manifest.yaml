@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ee008_000-jc.yaml, hash: 'sha256:ec65e38fbe803ee23e4f4c0dafd96a9a572ea8339c46974621f84c8dbee86b26'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ee008_000-jc.markers.yaml, hash: 'sha256:0ab364d904ad588e4e3bc566482ce8e5df6424863dbf4ae92b9f75b97e4ce732'}
+  - {seq: 0, role: markers, filename: assets/KR3ee008_000-jc.markers.yaml, hash: 'sha256:9458bbabc40d57566c0fb4e2e9762a2a6a284d4ef54a3882b06e0f1506c334c9'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1341,4 +1341,4 @@ table_of_contents:
   label: 定八穴所在
   type: section
   level: 2
-hash: sha256:848ee1df1f7665732611cf56e795053901db380664ef662beb59ccf7eef53a02
+hash: sha256:b86ebb1c67de54b34d81752e677bd1631d0db113c08f955c33b6b1309c587b88

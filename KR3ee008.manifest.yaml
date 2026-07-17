@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ee008_000.yaml, hash: 'sha256:0498bdf28acf71847aea0062af20e38b35cf59676a7631207434f1d3885b6709'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ee008_000.markers.yaml, hash: 'sha256:a6f6a3ee12f63445c90f318dbba1a7d67603845f8596a881aaec9f1b122a78d0'}
+  - {seq: 0, role: markers, filename: assets/KR3ee008_000.markers.yaml, hash: 'sha256:1545b31e9ccb41a4c328571ac38f35e4867d72ad9f84f56810f29b75f29d6f46'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1341,7 +1341,7 @@ table_of_contents:
   label: 定八穴所在
   type: section
   level: 2
-hash: sha256:00977541919d95b34b935cfe9756b15fadd3a8d7d2bb970a02a84df9b6a67b36
+hash: sha256:49c88b9a9496ba5ea1a91c647c4ed443868e5f638fb6c1fea0b63ef28181f861
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
